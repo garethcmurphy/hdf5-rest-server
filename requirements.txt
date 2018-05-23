@@ -1,0 +1,8 @@
+h5py
+tornado
+watchdog
+requests
+pytz
+hdf5plugin
+scipy
+scikit-image
